@@ -1,5 +1,23 @@
-libkompex (1.9.11-0ppa7) raring; urgency=low
+libkompex (1.9.11-0ubuntu4) UNRELEASED; urgency=low
 
-  * Update dependencies
+  * Adding section to control
 
- -- Alexandre ACEBEDO <alexandre.acebedo@gmail.com>  Fri, 24 May 2013 6:15:36 +0200
+ -- Alexandre ACEBEDO <alexandre.acebedo@gmail.com>  Sun, 26 May 2013 16:31:14 +0200
+
+libkompex (1.9.11-0ubuntu3) raring; urgency=low
+
+  * New test
+
+ -- Alexandre ACEBEDO <alexandre.acebedo@gmail.com>  Sun, 26 May 2013 16:11:45 +0200
+
+libkompex (1.9.11-0ubuntu2) raring; urgency=low
+
+  *  Remove -dev library
+
+ -- aacebedo <aacebedo@vaioz>  Sun, 26 May 2013 15:56:58 +0200
+
+libkompex (1.9.11-0ubuntu1) raring; urgency=low
+
+  * Change to allow packaging
+
+ -- Alexandre ACEBEDO <alexandre.acebedo@gmail.com>  Sun, 26 May 2013 12:46:17 +0200

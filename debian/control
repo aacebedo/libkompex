@@ -1,11 +1,13 @@
 Source: libkompex
-Section: devel
-Priority: optional
+Priority: devel
 Maintainer: Alexandre ACEBEDO <alexandre.acebedo@gmail.com>
-Build-Depends: cmake, build-essential, sqlite3, libsqlite3-dev
+Build-Depends: cmake, build-essential, libsqlite3-dev
+Standards-Version: 3.9.4
+Section: libs
 Homepage: http://sqlitewrapper.kompex-online.com/
+
 
 Package: libkompex
 Architecture: any
-Depends: sqlite3, libsqlite3-dev
+Depends: libsqlite3-dev
 Description: SQLite C++ wrapper.
