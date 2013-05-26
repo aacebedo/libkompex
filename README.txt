@@ -1,4 +1,4 @@
-Kompex SQLite Wrapper for C++ written by Sven Broesk (http://sqlitewrapper.kompex-online.com/index.php?content=home)
+Kompex SQLite Wrapper for C++ written by Sven Broesk (http://sqlitewrapper.kompex-online.com)
 
 The Kompex SQLite Wrapper is an open source C++ wrapper library for SQLite. 
 The Wrapper wraps the SQLite C-functions and can be used on Windows and Linux operating systems.
