@@ -31,8 +31,8 @@ def init(ctx):
 
 def options(opt):
   opt.load('compiler_cxx')
-  opt.add_option('--with-sqlite3', action='store', default=None, help='Path to SQLite 3 library')
-  opt.add_option('--mode', action='store', default="debug", help='target: [debug|release] ')  
+  opt.add_option('--with-sqlite3', action='store', default=None, help='Path to SQLite 3 library and headers')
+  opt.add_option('--mode', action='store', default="debug", help='Compilation mode. Enables debugging or optimizations')  
   
 def configure(conf):
   conf.load('compiler_cxx')
